@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 0  15% 3% 15%;
+    margin-top: 0px;
+}
+.header{
+    background-color: rgb(52, 52, 66);
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    padding: 1% 2%;
+}
+.header-2{
+    background-color: black;
+    color: aliceblue;
+    padding: 0 11%;
+}
+h2{
+    color: gray;
+    text-decoration-line: underline;
+    margin-bottom: 17px;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-weight: bold;
+}
+h6{
+    font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
+    color: gray;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 6px;
+    border-radius: 7px;
+}
+h2:hover{
+ color: green;
+}
+button:hover{
+    background-color: green;
+}
+.container{
+    padding: 0  15% 3% 0;
+}
+.container1{
+    width: 670px;
+    border: 10px solid black;
+    border-right: 0px;
+    position: absolute;
+    background-color: rgb(223, 212, 235);
+    height: 100%;
+    padding-left: 2%;
+}
+.education,.highschool,.experiance,.INTERESTS{
+    margin-top: 20px;
+}
+.container2{
+    background-color: rgb(223, 212, 235);
+    position: absolute;
+    margin-left: 680px;
+    width: 643px;
+    border: 10px solid black;
+    border-left: 0px;
+    height: 100%;
+}
+.skill,.projects,.CERTIFICATES,.LANGUAGES{
+    margin-top: 20px;
+}
+
+
+
